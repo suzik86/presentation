@@ -1,0 +1,20 @@
+.red {
+    color: red;
+}
+
+table.browser-support caption {
+   color: #bf79db;  
+   margin-bottom: 25px;   
+}
+
+.browser-support th {
+    color: #a6e22e;
+}
+
+.green {
+    color: #a6e22e;  
+}
+
+#canvas {
+    margin-left: 200px;
+}
